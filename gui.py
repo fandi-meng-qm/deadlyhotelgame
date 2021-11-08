@@ -114,7 +114,7 @@ if __name__ == '__main__':
     pygame.display.set_caption('Deadly Hotel')
     bg = pygame.image.load(BG)
     mark = pygame.image.load(MARK)
-    # 随机选出一个killer
+    # random choose killer
     killer = random.randint(0, len(ROLE)-2)
     killer = ROLE[killer]
     load_role(killer)
