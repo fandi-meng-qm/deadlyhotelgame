@@ -1,0 +1,1 @@
+/Users/mengxiaohua/Desktop/pygame/Game_debugged/1.jpg

@@ -1,0 +1,7 @@
+cleaner/waitress, C/C, 0 round
+cleaner/waitress, 12/12, 1 round
+writer/waitress, 17/17, 6 round
+victim was killed by knife in D at 13 round
+cleaner/waitress, C/C, 0 round
+cleaner/waitress, 12/12, 1 round
+writer/waitress, 17/17, 6 round
