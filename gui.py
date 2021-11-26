@@ -172,6 +172,7 @@ if __name__ == '__main__':
                         adjacent_detection(roles, running)
                         break
         pygame.display.update()
+
     # print report
     for i in report:
         if len(i) == 4:
