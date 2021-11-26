@@ -177,4 +177,4 @@ if __name__ == '__main__':
         if len(i) == 4:
             print("{}/{}, {}, {} round".format(i[0], i[1], i[2], 50 - i[3]))
         else:
-            print("{} was killed by {} in {} at {} round".format(i[0], i[1], i[3], 50 - i[2]))
+            print("{} was killed by {} in {} at {} round".format(i[0], i[1], i[3], 51 - i[2]))

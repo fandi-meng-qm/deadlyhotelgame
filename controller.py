@@ -19,7 +19,7 @@ def hurt_or_weapon(killer, weapons, victim, steps):
         j = victim.get_origin_index()
         room1, room2 = in_which_room(
             i), in_which_room(j)
-        # 不在房间里时需要在一个房间内
+        #
         if room1 == room2 and room1 != NOT_IN_ROOM:
             square1, square2 = in_which_square(
                 i), in_which_square(j)

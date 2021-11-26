@@ -358,6 +358,7 @@ class Role(Point):
     def get_role(self):
         return self.role
 
+
     def is_good_weapon(self):
         return self.nice_weapon == self.now_weapon
     # update index
@@ -396,3 +397,11 @@ class Role(Point):
             self.index[0] = self.path[0][0]
             self.index[1] = self.path[0][1]
             self.path.pop(0)
+
+def get_square_position(position):
+    for i in SQUARE_NUM_MAP:
+        if SQUARE_NUM_MAP[i] == position:
+            break
+    result = copy.deepcopy(SQUARE[i])
+    result.pop(2)
+    return result
