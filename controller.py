@@ -75,6 +75,7 @@ def adjacent_detection(roles, steps):
                             duplicate_removal.add(j[0]+i[0])
                             report.append([i[0], j[0], from_square_to_no(
                                 square1)+'/'+from_square_to_no(square2), steps])
+
     # for i in ret:
     #     print("{}/{}, {}, {} round".format(i[0], i[1], i[2], i[3]))
 
