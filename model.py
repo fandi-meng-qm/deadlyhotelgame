@@ -402,6 +402,7 @@ def get_square_position(position):
     for i in SQUARE_NUM_MAP:
         if SQUARE_NUM_MAP[i] == position:
             break
+
     result = copy.deepcopy(SQUARE[i])
     result.pop(2)
     return result
