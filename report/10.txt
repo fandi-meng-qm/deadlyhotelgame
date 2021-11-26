@@ -1,0 +1,6 @@
+cleaner/writer, E/E, 0 round
+cleaner/writer, 23/23, 1 round
+cleaner/writer, 4/3, 14 round
+cleaner/writer, 3/5, 15 round
+victim was killed by rope in A at 29 round
+writer/waitress, 7/12, 36 round

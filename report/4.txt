@@ -1,0 +1,8 @@
+cleaner/writer, 28/33, 12 round
+cleaner/writer, 35/33, 14 round
+writer/waitress, 33/28, 14 round
+writer/waitress, F/F, 16 round
+victim was killed by poison in F at 17 round
+writer/waitress, 33/28, 18 round
+writer/waitress, 28/23, 19 round
+writer/waitress, 23/21, 20 round

@@ -1,0 +1,7 @@
+writer/waitress, C/C, 0 round
+writer/waitress, 12/12, 1 round
+victim was killed by poison in B at 15 round
+cleaner/waitress, 19/19, 17 round
+writer/waitress, G/G, 22 round
+writer/waitress, 10/10, 23 round
+writer/waitress, 15/15, 23 round

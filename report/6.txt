@@ -1,0 +1,18 @@
+writer/waitress, 23/23, 9 round
+writer/waitress, 28/28, 10 round
+writer/waitress, 33/33, 11 round
+writer/waitress, F/F, 12 round
+writer/waitress, 33/33, 13 round
+writer/waitress, 28/28, 14 round
+writer/waitress, 23/23, 15 round
+victim was killed by knife in D at 16 round
+writer/waitress, 21/21, 16 round
+victim was killed by knife in D at 17 round
+writer/waitress, 19/19, 17 round
+victim was killed by knife in D at 18 round
+writer/waitress, 17/17, 18 round
+victim was killed by knife in D at 19 round
+writer/waitress, 12/12, 19 round
+victim was killed by knife in D at 20 round
+cleaner/waitress, 19/17, 22 round
+cleaner/waitress, 19/19, 23 round
