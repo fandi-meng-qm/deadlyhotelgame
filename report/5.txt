@@ -1,0 +1,5 @@
+writer/waitress, 23/23, 3 round
+cleaner/writer, 10/15, 8 round
+writer/waitress, H/H, 13 round
+cleaner/writer, 18/20, 14 round
+victim was killed by poison in D at 21 round
